@@ -1,6 +1,5 @@
 # --- Archivos de Datos ---
 # Ignorar los CSV originales si son muy grandes o confidenciales
-# Si son datos de "juguete" o públicos, puedes quitar el # del principio
 # *.csv
 # *.xlsx
 
