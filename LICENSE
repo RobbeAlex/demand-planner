@@ -1,0 +1,90 @@
+MIT License / Licencia MIT
+
+Copyright (c) 2025 
+Roberto Alejandro Chagra Martínez  
+Project: Collins Demand Planner — Quantum Analytics
+
+----------------------------------------------------------------------
+ENGLISH VERSION
+----------------------------------------------------------------------
+
+Permission is hereby granted, free of charge, to any person obtaining 
+a copy of this software and associated documentation files (the 
+"Software"), to deal in the Software without restriction, including 
+without limitation the rights to use, copy, modify, merge, publish, 
+distribute, sublicense, and/or sell copies of the Software, and to 
+permit persons to whom the Software is furnished to do so, subject to 
+the following conditions:
+
+The above copyright notice and this permission notice shall be included 
+in all copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS 
+OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF 
+MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. 
+IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY 
+CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, 
+TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE 
+SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
+----------------------------------------------------------------------
+ADDITIONAL DISCLAIMERS (DATA & ENTERPRISE CONTEXT)
+----------------------------------------------------------------------
+
+- This repository **must not contain confidential, proprietary, or 
+  production data** belonging to Grupo Collins or any third party.
+
+- Any datasets included in this repository must be **synthetic, anonymized, 
+  or publicly shareable**.  
+  Real operational or sensitive business information is strictly excluded.
+
+- The author is **not responsible** for any misuse of the software or for 
+  decisions taken based on modified versions of the forecasting models.
+
+- This software is intended **for educational, research, and demonstration 
+  purposes**. It is not guaranteed to fully replace enterprise-grade 
+  forecasting systems without further validation, governance, or 
+  integration.
+
+----------------------------------------------------------------------
+VERSIÓN EN ESPAÑOL
+----------------------------------------------------------------------
+
+Por la presente se concede permiso, libre de cargos, a cualquier persona 
+que obtenga una copia de este software y de los archivos de documentación 
+asociados (el "Software"), para utilizar el Software sin restricción, 
+incluyendo sin limitación los derechos a usar, copiar, modificar, fusionar, 
+publicar, distribuir, sublicenciar y/o vender copias del Software, y 
+permitir a las personas a quienes se les proporcione el Software hacer lo 
+mismo, sujeto a las siguientes condiciones:
+
+El aviso de copyright anterior y este aviso de permiso deberán ser 
+incluidos en todas las copias o porciones sustanciales del Software.
+
+EL SOFTWARE SE PROPORCIONA "TAL CUAL", SIN GARANTÍA DE NINGÚN TIPO, 
+EXPRESA O IMPLÍCITA, INCLUYENDO PERO NO LIMITADO A GARANTÍAS DE 
+COMERCIALIZACIÓN, IDONEIDAD PARA UN PROPÓSITO PARTICULAR E INCUMPLIMIENTO. 
+EN NINGÚN CASO LOS AUTORES O TITULARES DEL COPYRIGHT SERÁN RESPONSABLES 
+DE NINGUNA RECLAMACIÓN, DAÑO O OTRA RESPONSABILIDAD, YA SEA EN UNA ACCIÓN 
+CONTRACTUAL, AGRAVIO O CUALQUIER OTRO, QUE SURJA DE, O EN CONEXIÓN CON EL 
+SOFTWARE O EL USO U OTRAS OPERACIONES EN EL SOFTWARE.
+
+----------------------------------------------------------------------
+DESCARGOS ADICIONALES (DATOS Y ENTORNOS EMPRESARIALES)
+----------------------------------------------------------------------
+
+- Este repositorio **no debe contener datos confidenciales, propietarios o 
+  de operación real** pertenecientes a Grupo Collins o a terceros.
+
+- Cualquier conjunto de datos incluido debe ser **sintético, anonimizado 
+  o apto para compartir públicamente**.  
+  Queda estrictamente prohibido incluir datos reales o sensibles.
+
+- El autor **no es responsable** de decisiones tomadas a partir de 
+  modificaciones al software, a los modelos, o a su uso fuera del contexto 
+  académico.
+
+- Este software está destinado **exclusivamente para fines educativos, de 
+  investigación y demostración**.  
+  No se garantiza que sustituya completamente sistemas de pronóstico a 
+  nivel empresarial sin validación, gobierno de datos y pruebas adicionales.
