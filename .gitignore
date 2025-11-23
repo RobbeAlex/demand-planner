@@ -1,0 +1,22 @@
+# --- Archivos de Datos ---
+# Ignorar los CSV originales si son muy grandes o confidenciales
+# Si son datos de "juguete" o públicos, puedes quitar el # del principio
+# *.csv
+# *.xlsx
+
+# --- Base de Datos Local ---
+# La BD se genera corriendo el script, no hace falta subir el archivo binario
+*.db
+
+# --- Archivos Temporales de Python ---
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+.env
+
+# --- IDEs y Sistemas Operativos ---
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
